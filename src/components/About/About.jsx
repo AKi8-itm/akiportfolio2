@@ -25,7 +25,7 @@ const About = () => {
   return (
     <section id="about">
       <Container>
-        <Title title="About Me" />
+        <Title title="CAREER" />
         <Row className="about-wrapper">
           <Col md={6} sm={12}>
             <Fade bottom duration={1000} delay={600} distance="30px">
@@ -48,7 +48,7 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
                 </p>
-                {resume && (
+                {/* {resume && (
                   <span className="d-flex mt-3">
                     <a
                       target="_blank"
@@ -59,7 +59,7 @@ const About = () => {
                       Resume
                     </a>
                   </span>
-                )}
+                )} */}
               </div>
             </Fade>
           </Col>
