@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello,My name is',
   name: 'Akira Fujikawa',
-  subtitle: 'I am a student at OsakaKyoikuUniversity and the founder of the NPO "FLYON".',
+  subtitle: 'I am a student at OsakaKyoikuUniv and the founder of the NPO "FLYON".',
   cta: 'Know more',
 };
 
