@@ -72,12 +72,12 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'youtube-square',
+      name: 'youtube',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'blog-square',
+      name: 'blog',
       url: '',
     },
     {
