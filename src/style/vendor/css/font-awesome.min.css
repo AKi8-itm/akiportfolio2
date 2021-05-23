@@ -582,7 +582,7 @@
 .fa-sign-out:before {
   content: '\f08b';
 }
-.fa-linkedin-square:before {
+.fa-blog-square:before {
   content: '\f08c';
 }
 .fa-thumb-tack:before {
@@ -795,7 +795,7 @@
 .fa-envelope:before {
   content: '\f0e0';
 }
-.fa-linkedin:before {
+.fa-blog:before {
   content: '\f0e1';
 }
 .fa-rotate-left:before,
@@ -1486,7 +1486,7 @@
 .fa-vine:before {
   content: '\f1ca';
 }
-.fa-codepen:before {
+.fa-youtube-square:before {
   content: '\f1cb';
 }
 .fa-jsfiddle:before {
