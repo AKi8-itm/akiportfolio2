@@ -72,12 +72,12 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
+      name: 'youtube',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'linkedin',
+      name: 'blog',
       url: '',
     },
     {
