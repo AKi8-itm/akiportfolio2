@@ -77,7 +77,7 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'blog',
+      name: 'book',
       url: '',
     },
     {
