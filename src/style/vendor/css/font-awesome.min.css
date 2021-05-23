@@ -795,8 +795,8 @@
 .fa-envelope:before {
   content: '\f0e0';
 }
-.fa-linkedin:before {
-  content: '\f0e1';
+.fa-blog:before {
+  content: '\f781';
 }
 .fa-rotate-left:before,
 .fa-undo:before {
